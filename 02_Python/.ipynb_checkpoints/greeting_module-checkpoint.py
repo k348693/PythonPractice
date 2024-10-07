@@ -24,5 +24,5 @@ class Hello:
     def eng_greet(self):
         return f"Hello {self.name}~!"
 
-print("SDFDF)")
-print(__name__)
+# print("SDFDF)")
+# print(__name__)
